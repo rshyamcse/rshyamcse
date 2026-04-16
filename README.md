@@ -11,7 +11,6 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech Graduate in Computer Science from **Galgotias University**
 - 💼 Currently working as an **Application Developer at Quick Smart Wash Pvt. Ltd.**
 - 🌱 Skilled in **Full Stack Development (WEB + APP)**
 - 💬 Ask me about **Java, Web Development, App Development, Git & GitHub**
