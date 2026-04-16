@@ -20,26 +20,22 @@
 
 ### 🛠️ Tech Stack
 
-**💻 Languages:**  
-Java, JavaScript  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,mysql,postgres,git,github,bootstrap,vercel" />
+</p>
 
-**🌐 Frontend:**  
-HTML, CSS, Bootstrap, React.js  
+### 🔌 API & Integration
 
-**📱 Mobile Development:**  
-React Native  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</p>
 
-**⚙️ Backend:**  
-Node.js, Express.js  
-
-**🔌 API & Integration:**  
-REST APIs, JSON, Axios, Fetch API  
-
-**🗄️ Database:**  
-MongoDB, MySQL, PostgreSQL  
-
-**🔧 Tools & Platforms:**  
-Git, GitHub, Heroku, Vercel  
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fetch%20API-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</p>
 
 ---
 
