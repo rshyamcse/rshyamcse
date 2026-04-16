@@ -14,27 +14,32 @@
 - 🎓 B.Tech Graduate in Computer Science from **Galgotias University**
 - 💼 Currently working as an **Application Developer at Quick Smart Wash Pvt. Ltd.**
 - 🌱 Skilled in **Full Stack Development (WEB + APP)**
-- 💬 Ask me about **Java, Web Development, Git & GitHub**
+- 💬 Ask me about **Java, Web Development, App Development, Git & GitHub**
 - 📫 Reach me at **rshyamcse@gmail.com**
 - 📍 India  
-- 💼 **Open to new opportunities**
 
 ### 🛠️ Tech Stack
 
 **💻 Languages:**  
-C, C++, Java, JavaScript,  React Native  
+Java, JavaScript  
 
 **🌐 Frontend:**  
-HTML, CSS, Bootstrap, React.js 
+HTML, CSS, Bootstrap, React.js  
+
+**📱 Mobile Development:**  
+React Native  
 
 **⚙️ Backend:**  
 Node.js, Express.js  
 
+**🔌 API & Integration:**  
+REST APIs, JSON, Axios, Fetch API  
+
 **🗄️ Database:**  
-MongoDB, MySQL, PostSQL
+MongoDB, MySQL, PostgreSQL  
 
 **🔧 Tools & Platforms:**  
-Git, GitHub, Heroku  
+Git, GitHub, Heroku, Vercel  
 
 ---
 
